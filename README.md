@@ -44,10 +44,13 @@ Add some meta info of your built firmware (such as firmware architecture and ins
 
 
 以下内容是本人增加使用说明，方便自己使用
+
 diy-part2.sh可以修改默认IP地址
+
 diy-part1.sh可以增加第三方插件
 
 自己使用中的插件
+
 
 CONFIG_TARGET_x86=y
 CONFIG_TARGET_x86_64=y
